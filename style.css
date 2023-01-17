@@ -1,0 +1,11 @@
+h1 {
+    font-weight: bold;
+    background-color: rgb(255,0,0,0.3);
+    color: blue;
+}
+a {
+    background-color: #00ffff;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+}
